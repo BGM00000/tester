@@ -1,5 +1,1 @@
-{
-  "delay": 180,
-  "whitelist": ["bgm", "admin", "testuser"],
-  "blacklist": ["tricheur", "blocked"]
-}
+1200|nom1,nom2|nom3,nom4
